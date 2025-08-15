@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "217967984385",
+    "project_id": "aura-myosa",
+    "storage_bucket": "aura-myosa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217967984385:android:1b14f0e7a39c2507c36500",
+        "android_client_info": {
+          "package_name": "com.example.myosa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4vjcSDa3Jrzl8stsHNie-5GH_-Ql0Lyg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
